@@ -52,7 +52,3 @@ filters. The PNG export draws that SVG onto a canvas. No backend.
 Then open http://localhost:5173 in your browser. To make a production build, run `npm run build`.
 
 See `WORKFLOW.md` for the folder structure and how the pieces fit together.
-
-## license
-
-MIT. See [LICENSE](./LICENSE).
