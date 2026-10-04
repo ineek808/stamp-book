@@ -1,4 +1,4 @@
-# StampBook :)
+# Stamp Book :)
 
 Pick a place, a date and an icon, and get an ink stamp like the ones in a passport.
 Make a few, drop them on a passport page, and export the whole thing.
